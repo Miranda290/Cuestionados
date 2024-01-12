@@ -8,6 +8,13 @@
 	"usedAddons": [
 		{
 			"type": "plugin",
+			"id": "Button",
+			"name": "Botón",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
 			"id": "Sprite",
 			"name": "Sprite",
 			"author": "Scirra",
@@ -17,7 +24,11 @@
 	"uniqueId": "0490rdsi7t1",
 	"objectTypes": {
 		"items": [
-			"Sprite"
+			"Sprite",
+			"Botón",
+			"Botón2",
+			"Botón3",
+			"Sprite2"
 		],
 		"subfolders": []
 	},
