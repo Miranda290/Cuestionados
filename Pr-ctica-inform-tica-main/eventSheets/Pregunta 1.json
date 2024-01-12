@@ -1,0 +1,23 @@
+{
+	"name": "Pregunta 1",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 829639081785474,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "Sprite"
+					}
+				}
+			],
+			"actions": [],
+			"sid": 135301655901457
+		}
+	],
+	"sid": 861107926970302
+}
