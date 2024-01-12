@@ -1,7 +1,7 @@
 {
-	"name": "FONDOCIELO",
+	"name": "T6",
 	"plugin-id": "Sprite",
-	"sid": 738626259397424,
+	"sid": 490243953729785,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -11,20 +11,30 @@
 			{
 				"frames": [
 					{
-						"width": 250,
-						"height": 250,
-						"originX": 0.5,
-						"originY": 0.5,
+						"width": 412,
+						"height": 303,
+						"originX": 0.9830097087378641,
+						"originY": 0.9603960396039604,
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 2902708,
+						"imageSpriteId": 2860053,
+						"collisionPoly": {
+							"points": [
+								0.32281553398058255,
+								0,
+								0.9951456310679612,
+								0.9966996699669967,
+								0,
+								0.9504950495049505
+							]
+						},
 						"useCollisionPoly": true,
 						"duration": 1,
 						"tag": ""
 					}
 				],
-				"sid": 468632542773371,
+				"sid": 621049778999564,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

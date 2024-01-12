@@ -7,7 +7,7 @@
 				{
 					"id": "on-object-clicked",
 					"objectClass": "Mouse",
-					"sid": 887523235889656,
+					"sid": 615847203871750,
 					"parameters": {
 						"mouse-button": "left",
 						"click-type": "clicked",
@@ -17,15 +17,15 @@
 			],
 			"actions": [
 				{
-					"id": "go-to-layout-by-name",
+					"id": "go-to-layout",
 					"objectClass": "System",
-					"sid": 437759605943271,
+					"sid": 632318121316923,
 					"parameters": {
-						"layout": "\"Falso\""
+						"layout": "Falso"
 					}
 				}
 			],
-			"sid": 401432594392929
+			"sid": 821755790055197
 		},
 		{
 			"eventType": "block",
@@ -33,7 +33,7 @@
 				{
 					"id": "on-object-clicked",
 					"objectClass": "Mouse",
-					"sid": 285809027213687,
+					"sid": 417695989584227,
 					"parameters": {
 						"mouse-button": "left",
 						"click-type": "clicked",
@@ -45,13 +45,13 @@
 				{
 					"id": "go-to-layout-by-name",
 					"objectClass": "System",
-					"sid": 761247335667881,
+					"sid": 423181429378276,
 					"parameters": {
 						"layout": "\"Falso\""
 					}
 				}
 			],
-			"sid": 695231548225123
+			"sid": 977951379935036
 		},
 		{
 			"eventType": "block",
@@ -59,7 +59,7 @@
 				{
 					"id": "on-object-clicked",
 					"objectClass": "Mouse",
-					"sid": 625140801849391,
+					"sid": 750170580176602,
 					"parameters": {
 						"mouse-button": "left",
 						"click-type": "clicked",
@@ -71,13 +71,13 @@
 				{
 					"id": "go-to-layout-by-name",
 					"objectClass": "System",
-					"sid": 872878230265548,
+					"sid": 909667891210991,
 					"parameters": {
 						"layout": "\"Verdadero\""
 					}
 				}
 			],
-			"sid": 286959520651902
+			"sid": 918530181109541
 		},
 		{
 			"eventType": "block",
@@ -85,7 +85,7 @@
 				{
 					"id": "on-object-clicked",
 					"objectClass": "Mouse",
-					"sid": 533144543520445,
+					"sid": 191392552205240,
 					"parameters": {
 						"mouse-button": "left",
 						"click-type": "clicked",
@@ -97,13 +97,13 @@
 				{
 					"id": "go-to-layout-by-name",
 					"objectClass": "System",
-					"sid": 816281366043237,
+					"sid": 342872107120521,
 					"parameters": {
 						"layout": "\"Falso\""
 					}
 				}
 			],
-			"sid": 414637341083826
+			"sid": 650515789986858
 		}
 	],
 	"sid": 592030373875016

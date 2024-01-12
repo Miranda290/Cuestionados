@@ -1,7 +1,7 @@
 {
-	"name": "ARBOLES",
+	"name": "T2",
 	"plugin-id": "Sprite",
-	"sid": 767460173443830,
+	"sid": 410523601395889,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -11,30 +11,28 @@
 			{
 				"frames": [
 					{
-						"width": 512,
-						"height": 512,
-						"originX": 0.5,
-						"originY": 0.5,
+						"width": 416,
+						"height": 341,
+						"originX": 0.016826923076923076,
+						"originY": 0.9794721407624634,
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 3208250,
+						"imageSpriteId": 2077345,
 						"collisionPoly": {
 							"points": [
-								0.5234375,
-								0.017578125,
-								0.72265625,
-								0.08984375,
-								0.875,
-								0.26953125,
-								0.990234375,
+								0.6081730769230769,
+								0.01466275659824047,
+								0.6971153846153846,
+								0.09090909090909091,
 								1,
+								0.8064516129032258,
+								0.9759615384615384,
+								0.9648093841642229,
+								0.8653846153846154,
+								0.9882697947214076,
 								0,
-								0.9765625,
-								0.130859375,
-								0.2578125,
-								0.279296875,
-								0.087890625
+								0.9970674486803519
 							]
 						},
 						"useCollisionPoly": true,
@@ -42,7 +40,7 @@
 						"tag": ""
 					}
 				],
-				"sid": 883971246293144,
+				"sid": 652021721923333,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

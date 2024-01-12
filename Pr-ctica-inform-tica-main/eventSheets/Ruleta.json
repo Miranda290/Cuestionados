@@ -41,8 +41,48 @@
 				},
 				{
 					"id": "rotate-clockwise",
-					"objectClass": "Sprite",
+					"objectClass": "T1",
 					"sid": 326420426871956,
+					"parameters": {
+						"degrees": "Velocidad"
+					}
+				},
+				{
+					"id": "rotate-clockwise",
+					"objectClass": "T2",
+					"sid": 378209708871441,
+					"parameters": {
+						"degrees": "Velocidad"
+					}
+				},
+				{
+					"id": "rotate-clockwise",
+					"objectClass": "T3",
+					"sid": 196057101483866,
+					"parameters": {
+						"degrees": "Velocidad"
+					}
+				},
+				{
+					"id": "rotate-clockwise",
+					"objectClass": "T4",
+					"sid": 973804071846535,
+					"parameters": {
+						"degrees": "Velocidad"
+					}
+				},
+				{
+					"id": "rotate-clockwise",
+					"objectClass": "T5",
+					"sid": 215451226488544,
+					"parameters": {
+						"degrees": "Velocidad"
+					}
+				},
+				{
+					"id": "rotate-clockwise",
+					"objectClass": "T6",
+					"sid": 929582416643319,
 					"parameters": {
 						"degrees": "Velocidad"
 					}
@@ -88,16 +128,193 @@
 			"eventType": "block",
 			"conditions": [
 				{
+					"id": "every-x-seconds",
+					"objectClass": "System",
+					"sid": 917571051013744,
+					"parameters": {
+						"interval-seconds": "7"
+					}
+				},
+				{
 					"id": "is-overlapping-another-object",
 					"objectClass": "Flecha",
-					"sid": 877496845974408,
+					"sid": 802903934043252,
 					"parameters": {
-						"object": "Sprite"
+						"object": "T1"
 					}
 				}
 			],
-			"actions": [],
-			"sid": 893820409434916
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 169254378893831,
+					"parameters": {
+						"layout": "Pregunta 1"
+					}
+				}
+			],
+			"sid": 561121926766374
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "every-x-seconds",
+					"objectClass": "System",
+					"sid": 248147247892116,
+					"parameters": {
+						"interval-seconds": "7"
+					}
+				},
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "Flecha",
+					"sid": 281411880143529,
+					"parameters": {
+						"object": "T2"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 905883139338558,
+					"parameters": {
+						"layout": "Pregunta 2"
+					}
+				}
+			],
+			"sid": 661066337817455
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "every-x-seconds",
+					"objectClass": "System",
+					"sid": 150322195667503,
+					"parameters": {
+						"interval-seconds": "7"
+					}
+				},
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "Flecha",
+					"sid": 401518245661229,
+					"parameters": {
+						"object": "T3"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 781445451460046,
+					"parameters": {
+						"layout": "Pregunta 3"
+					}
+				}
+			],
+			"sid": 999056746453753
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "every-x-seconds",
+					"objectClass": "System",
+					"sid": 236565596215408,
+					"parameters": {
+						"interval-seconds": "7"
+					}
+				},
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "Flecha",
+					"sid": 832670283298633,
+					"parameters": {
+						"object": "T4"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 808294378035736,
+					"parameters": {
+						"layout": "Pregunta 4"
+					}
+				}
+			],
+			"sid": 240167111063393
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "every-x-seconds",
+					"objectClass": "System",
+					"sid": 894911475424588,
+					"parameters": {
+						"interval-seconds": "8"
+					}
+				},
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "Flecha",
+					"sid": 477831469629018,
+					"parameters": {
+						"object": "T5"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 855941626328808,
+					"parameters": {
+						"layout": "Pregunta 5"
+					}
+				}
+			],
+			"sid": 569764188300812
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "every-x-seconds",
+					"objectClass": "System",
+					"sid": 466632456136724,
+					"parameters": {
+						"interval-seconds": "7"
+					}
+				},
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "Flecha",
+					"sid": 995507064135139,
+					"parameters": {
+						"object": "T6"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 869854632426327,
+					"parameters": {
+						"layout": "Pregunta 6"
+					}
+				}
+			],
+			"sid": 494810798308915
 		}
 	],
 	"sid": 524709272147621

@@ -61,7 +61,7 @@
 			"Ruleta",
 			"Mouse",
 			"JUGAR",
-			"Sprite",
+			"T1",
 			"Sprite2",
 			"A",
 			"Sprite4",
@@ -75,7 +75,14 @@
 			"B",
 			"D",
 			"Texto",
-			"Texto4"
+			"Texto4",
+			"T2",
+			"T3",
+			"T4",
+			"T5",
+			"T6",
+			"Sprite",
+			"Texto5"
 		],
 		"subfolders": []
 	},

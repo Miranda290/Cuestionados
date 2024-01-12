@@ -1,7 +1,7 @@
 {
-	"name": "Flecha",
+	"name": "T1",
 	"plugin-id": "Sprite",
-	"sid": 890188153976387,
+	"sid": 810332256132097,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -11,22 +11,26 @@
 			{
 				"frames": [
 					{
-						"width": 364,
-						"height": 310,
-						"originX": 0.5,
-						"originY": 0.5,
+						"width": 497,
+						"height": 407,
+						"originX": 0.5513078470824949,
+						"originY": 1.0024570024570025,
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 5331705,
+						"imageSpriteId": 350319,
 						"collisionPoly": {
 							"points": [
-								0.09615384615384616,
-								0.14838709677419354,
-								0.9478021978021978,
-								0.1774193548387097,
-								0.5769230769230769,
-								0.9612903225806452
+								0.5110663983903421,
+								0,
+								0.670020120724346,
+								0,
+								1,
+								0.18427518427518427,
+								0.5352112676056338,
+								1,
+								0.006036217303822937,
+								0.2285012285012285
 							]
 						},
 						"useCollisionPoly": true,
@@ -34,7 +38,7 @@
 						"tag": ""
 					}
 				],
-				"sid": 102204444168265,
+				"sid": 543953915965959,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,
