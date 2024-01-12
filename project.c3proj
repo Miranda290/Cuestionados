@@ -9,7 +9,7 @@
 		{
 			"type": "plugin",
 			"id": "Button",
-			"name": "Button",
+			"name": "Botón",
 			"author": "Scirra",
 			"bundled": false
 		},

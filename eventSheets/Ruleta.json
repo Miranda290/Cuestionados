@@ -55,13 +55,11 @@
 			"eventType": "block",
 			"conditions": [
 				{
-					"id": "on-object-clicked",
+					"id": "cursor-is-over-object",
 					"objectClass": "Mouse",
-					"sid": 980013650946673,
+					"sid": 611496573126117,
 					"parameters": {
-						"mouse-button": "left",
-						"click-type": "clicked",
-						"object-clicked": "Ruleta"
+						"object": "Ruleta"
 					}
 				}
 			],
