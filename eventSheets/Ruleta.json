@@ -83,6 +83,21 @@
 				}
 			],
 			"sid": 564426266851449
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "Flecha",
+					"sid": 877496845974408,
+					"parameters": {
+						"object": "Sprite"
+					}
+				}
+			],
+			"actions": [],
+			"sid": 893820409434916
 		}
 	],
 	"sid": 524709272147621
