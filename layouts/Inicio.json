@@ -1,5 +1,5 @@
 {
-	"name": "Main",
+	"name": "Inicio",
 	"layers": [
 		{
 			"name": "Capa 0",
@@ -308,5 +308,5 @@
 	"vpX": 0.5,
 	"vpY": 0.5,
 	"projection": "perspective",
-	"eventSheet": "Main"
+	"eventSheet": "Inicio"
 }

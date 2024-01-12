@@ -1,0 +1,27 @@
+{
+	"name": "Inicio",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "JUGAR",
+					"sid": 177697114784110
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-nextprevious-layout",
+					"objectClass": "System",
+					"sid": 828840175968692,
+					"parameters": {
+						"which": "next"
+					}
+				}
+			],
+			"sid": 755146617346371
+		}
+	],
+	"sid": 115709413950098
+}

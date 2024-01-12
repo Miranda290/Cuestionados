@@ -41,13 +41,15 @@
 	},
 	"layouts": {
 		"items": [
-			"Main"
+			"Inicio",
+			"Ruleta"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"Main"
+			"Inicio",
+			"Ruleta"
 		],
 		"subfolders": []
 	},
