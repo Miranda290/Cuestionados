@@ -1,5 +1,83 @@
 {
 	"name": "Ruleta",
-	"events": [],
+	"events": [
+		{
+			"eventType": "variable",
+			"name": "Velocidad",
+			"type": "number",
+			"initialValue": "0",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 740389996168152
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "every-tick",
+					"objectClass": "System",
+					"sid": 552615790483922
+				},
+				{
+					"id": "compare-eventvar",
+					"objectClass": "System",
+					"sid": 721743169961207,
+					"parameters": {
+						"variable": "Velocidad",
+						"comparison": 4,
+						"value": "0"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "rotate-clockwise",
+					"objectClass": "Ruleta",
+					"sid": 724589241812404,
+					"parameters": {
+						"degrees": "Velocidad"
+					}
+				},
+				{
+					"id": "subtract-from-eventvar",
+					"objectClass": "System",
+					"sid": 960940401333966,
+					"parameters": {
+						"variable": "Velocidad",
+						"value": "0.2"
+					}
+				}
+			],
+			"sid": 287952963071713
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 980013650946673,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "Ruleta"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-eventvar-value",
+					"objectClass": "System",
+					"sid": 480397497026403,
+					"parameters": {
+						"variable": "Velocidad",
+						"value": "40"
+					}
+				}
+			],
+			"sid": 564426266851449
+		}
+	],
 	"sid": 524709272147621
 }

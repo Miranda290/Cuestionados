@@ -1,0 +1,48 @@
+{
+	"name": "Flecha",
+	"plugin-id": "Sprite",
+	"sid": 890188153976387,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 364,
+						"height": 310,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 5331705,
+						"collisionPoly": {
+							"points": [
+								0.09615384615384616,
+								0.14838709677419354,
+								0.9478021978021978,
+								0.1774193548387097,
+								0.5769230769230769,
+								0.9612903225806452
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 102204444168265,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
