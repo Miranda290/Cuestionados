@@ -94,7 +94,7 @@
 					}
 				},
 				{
-					"type": "Sprite3",
+					"type": "B",
 					"properties": {
 						"initially-visible": true,
 						"initial-animation": "Animation 1",
@@ -267,9 +267,97 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 161,
+						"x": 503,
+						"y": 276,
+						"width": 200,
+						"height": 30,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "Texto4",
+					"properties": {
+						"text": "HDMs",
+						"enable-bbcode": true,
+						"font": "Arial",
+						"size": 20,
+						"line-height": 0,
+						"bold": false,
+						"italic": false,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
+						"icon-set": -1,
+						"initially-visible": true,
+						"origin": "top-left",
+						"read-aloud": false
+					},
+					"uid": 72,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 164,
 						"y": 363,
 						"width": 200,
+						"height": 30,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "Texto4",
+					"properties": {
+						"text": "RANDOM ACCESS MEMORY ",
+						"enable-bbcode": true,
+						"font": "Arial",
+						"size": 13,
+						"line-height": 0,
+						"bold": false,
+						"italic": false,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
+						"icon-set": -1,
+						"initially-visible": true,
+						"origin": "top-left",
+						"read-aloud": false
+					},
+					"uid": 73,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 499,
+						"y": 369,
+						"width": 245,
 						"height": 30,
 						"originX": 0,
 						"originY": 0,

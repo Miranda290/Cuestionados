@@ -94,7 +94,7 @@
 					}
 				},
 				{
-					"type": "Sprite3",
+					"type": "B",
 					"properties": {
 						"initially-visible": true,
 						"initial-animation": "Animation 1",
