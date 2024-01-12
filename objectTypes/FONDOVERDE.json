@@ -1,7 +1,7 @@
 {
-	"name": "Sprite",
+	"name": "FONDOVERDE",
 	"plugin-id": "Sprite",
-	"sid": 733510804874098,
+	"sid": 780941597938963,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -11,20 +11,20 @@
 			{
 				"frames": [
 					{
-						"width": 187,
-						"height": 61,
-						"originX": 0.48128342245989303,
-						"originY": 0.8032786885245902,
+						"width": 250,
+						"height": 250,
+						"originX": 0.5,
+						"originY": 0.5,
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 7254595,
+						"imageSpriteId": 6404867,
 						"useCollisionPoly": true,
 						"duration": 1,
 						"tag": ""
 					}
 				],
-				"sid": 529048121954448,
+				"sid": 725564164986253,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

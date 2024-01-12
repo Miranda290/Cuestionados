@@ -24,11 +24,12 @@
 	"uniqueId": "0490rdsi7t1",
 	"objectTypes": {
 		"items": [
-			"Sprite",
-			"Botón",
-			"Botón2",
-			"Botón3",
-			"Sprite2"
+			"BOTÓNJUGAR",
+			"JUGAR",
+			"FONDOVERDE",
+			"ARBOLES",
+			"CUESTIONADOS",
+			"FONDOCIELO"
 		],
 		"subfolders": []
 	},

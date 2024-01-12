@@ -1,7 +1,7 @@
 {
-	"name": "Sprite2",
+	"name": "FONDOCIELO",
 	"plugin-id": "Sprite",
-	"sid": 780941597938963,
+	"sid": 738626259397424,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -18,13 +18,13 @@
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 6404867,
+						"imageSpriteId": 2902708,
 						"useCollisionPoly": true,
 						"duration": 1,
 						"tag": ""
 					}
 				],
-				"sid": 725564164986253,
+				"sid": 468632542773371,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

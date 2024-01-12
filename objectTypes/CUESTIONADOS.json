@@ -1,0 +1,52 @@
+{
+	"name": "CUESTIONADOS",
+	"plugin-id": "Sprite",
+	"sid": 687648762851639,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 855,
+						"height": 162,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 65008,
+						"collisionPoly": {
+							"points": [
+								0.07251461988304093,
+								0.22839506172839505,
+								0.9298245614035088,
+								0.24074074074074073,
+								0.9532163742690059,
+								0.3333333333333333,
+								0.9333333333333333,
+								0.7530864197530864,
+								0.06432748538011696,
+								0.7345679012345679
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 887419398845735,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
