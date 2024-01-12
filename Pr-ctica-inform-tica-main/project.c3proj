@@ -40,6 +40,13 @@
 			"name": "Mapa de teselas",
 			"author": "Scirra",
 			"bundled": false
+		},
+		{
+			"type": "effect",
+			"id": "brightness",
+			"name": "Brillo",
+			"author": "Scirra",
+			"bundled": false
 		}
 	],
 	"uniqueId": "0490rdsi7t1",
@@ -56,12 +63,21 @@
 			"JUGAR",
 			"Sprite",
 			"Sprite2",
-			"Sprite3",
-			"Texto",
+			"A",
 			"Sprite4",
 			"MapaDeTeselas",
 			"Partículas3",
-			"Texto2"
+			"Texto2",
+			"Sprite5",
+			"Sprite6",
+			"Sprite7",
+			"Sprite8",
+			"Texto3",
+			"C",
+			"Sprite3",
+			"D",
+			"Texto",
+			"Texto4"
 		],
 		"subfolders": []
 	},
@@ -77,7 +93,12 @@
 			"Ruleta",
 			"Pregunta 1",
 			"Verdadero",
-			"Falso"
+			"Falso",
+			"Pregunta 2",
+			"Pregunta 3",
+			"Pregunta 4",
+			"Pregunta 5",
+			"Pregunta 6"
 		],
 		"subfolders": []
 	},

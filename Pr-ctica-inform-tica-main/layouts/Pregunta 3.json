@@ -1,5 +1,5 @@
 {
-	"name": "Pregunta 1",
+	"name": "Pregunta 3",
 	"layers": [
 		{
 			"name": "Capa 0",
@@ -15,7 +15,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 13,
+					"uid": 26,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -44,7 +44,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 14,
+					"uid": 27,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -73,7 +73,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 23,
+					"uid": 28,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -102,7 +102,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 24,
+					"uid": 37,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -131,7 +131,7 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 25,
+					"uid": 38,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
@@ -152,9 +152,9 @@
 					}
 				},
 				{
-					"type": "Texto",
+					"type": "Texto4",
 					"properties": {
-						"text": "Memoria utilizada para agilizar la transferencia de información entre la RAM y la CPU",
+						"text": "¿CUÁNTOS BYTES SON 1 MEGABYTE?",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 20,
@@ -175,14 +175,14 @@
 						"origin": "top-left",
 						"read-aloud": false
 					},
-					"uid": 59,
+					"uid": 64,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 150.97456398988368,
-						"y": 116.49210870204828,
-						"width": 571.1442307692312,
-						"height": 97.4032051282052,
+						"x": 185.9559549967446,
+						"y": 127.58378640199317,
+						"width": 522.5115384615387,
+						"height": 70.10064102564107,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -198,7 +198,7 @@
 				{
 					"type": "Texto4",
 					"properties": {
-						"text": "CACHÉ",
+						"text": "1024 BYTES",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 20,
@@ -219,13 +219,13 @@
 						"origin": "top-left",
 						"read-aloud": false
 					},
-					"uid": 60,
+					"uid": 65,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 161.21302889310385,
-						"y": 275.1882632524539,
-						"width": 200,
+						"x": 163.7726272191756,
+						"y": 275.18826966897035,
+						"width": 247.77948717948726,
 						"height": 30,
 						"originX": 0,
 						"originY": 0,
@@ -242,7 +242,7 @@
 				{
 					"type": "Texto4",
 					"properties": {
-						"text": "INTERNA",
+						"text": "2.006.488 BYTES",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 20,
@@ -263,13 +263,13 @@
 						"origin": "top-left",
 						"read-aloud": false
 					},
-					"uid": 61,
+					"uid": 66,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 503.3482662885619,
-						"y": 276.04148825620996,
-						"width": 200,
+						"x": 498.22907088842146,
+						"y": 276.0414616511418,
+						"width": 223.0365384615385,
 						"height": 30,
 						"originX": 0,
 						"originY": 0,
@@ -286,7 +286,7 @@
 				{
 					"type": "Texto4",
 					"properties": {
-						"text": "VOLÁTIL",
+						"text": "1.048.576 BYTES ",
 						"enable-bbcode": true,
 						"font": "Arial",
 						"size": 20,
@@ -307,13 +307,13 @@
 						"origin": "top-left",
 						"read-aloud": false
 					},
-					"uid": 62,
+					"uid": 67,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 158.65346836187854,
-						"y": 362.2151941543971,
-						"width": 200,
+						"x": 159.50660236065198,
+						"y": 362.2152340619992,
+						"width": 219.62371794871797,
 						"height": 30,
 						"originX": 0,
 						"originY": 0,
@@ -330,10 +330,10 @@
 				{
 					"type": "Texto4",
 					"properties": {
-						"text": "RAMDOM ACCESS MEMORY",
+						"text": "20.098 BYTES ",
 						"enable-bbcode": true,
 						"font": "Arial",
-						"size": 13,
+						"size": 20,
 						"line-height": 0,
 						"bold": false,
 						"italic": false,
@@ -351,14 +351,14 @@
 						"origin": "top-left",
 						"read-aloud": false
 					},
-					"uid": 63,
+					"uid": 68,
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 497.3758330516328,
-						"y": 367.3344304011418,
-						"width": 251.10698717948696,
-						"height": 37.678846153846166,
+						"x": 498.229076209435,
+						"y": 363.0684179061498,
+						"width": 200,
+						"height": 30,
 						"originX": 0,
 						"originY": 0,
 						"color": [
@@ -372,7 +372,7 @@
 					}
 				}
 			],
-			"sid": 392631597137510,
+			"sid": 732870023021076,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -401,7 +401,7 @@
 			"global": false
 		}
 	],
-	"sid": 932175433201903,
+	"sid": 995722189787002,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 1708,

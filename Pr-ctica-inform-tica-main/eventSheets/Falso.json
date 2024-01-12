@@ -1,5 +1,31 @@
 {
 	"name": "Falso",
-	"events": [],
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-click",
+					"objectClass": "Mouse",
+					"sid": 207786400268273,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 779382660975174,
+					"parameters": {
+						"layout": "\"Ruleta\""
+					}
+				}
+			],
+			"sid": 494091785221276
+		}
+	],
 	"sid": 685463086486577
 }

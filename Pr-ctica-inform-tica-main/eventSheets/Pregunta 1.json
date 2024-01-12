@@ -7,11 +7,11 @@
 				{
 					"id": "on-object-clicked",
 					"objectClass": "Mouse",
-					"sid": 666583630492141,
+					"sid": 454481338880132,
 					"parameters": {
 						"mouse-button": "left",
-						"click-type": "double-clicked",
-						"object-clicked": "Sprite3"
+						"click-type": "clicked",
+						"object-clicked": "A"
 					}
 				}
 			],

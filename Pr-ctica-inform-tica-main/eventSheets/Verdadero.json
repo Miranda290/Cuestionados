@@ -1,5 +1,31 @@
 {
 	"name": "Verdadero",
-	"events": [],
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-click",
+					"objectClass": "Mouse",
+					"sid": 176301744157046,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 102613496935956,
+					"parameters": {
+						"layout": "\"Ruleta\""
+					}
+				}
+			],
+			"sid": 369925078126472
+		}
+	],
 	"sid": 804824091299081
 }
