@@ -197,8 +197,37 @@
 						"y": 250,
 						"width": 472.81821828788514,
 						"height": 406.9048978945926,
-						"originX": 0.5,
-						"originY": 0.5,
+						"originX": 0.5148698884758365,
+						"originY": 0.5140388768898488,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "Sprite",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 12,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 427.83372677236264,
+						"y": 251.0060284695843,
+						"width": 225.97546787086037,
+						"height": 187.70265678137616,
+						"originX": 0.5513078470824949,
+						"originY": 1.0024570024570025,
 						"color": [
 							1,
 							1,

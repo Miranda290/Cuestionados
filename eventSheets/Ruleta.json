@@ -40,6 +40,14 @@
 					}
 				},
 				{
+					"id": "rotate-clockwise",
+					"objectClass": "Sprite",
+					"sid": 326420426871956,
+					"parameters": {
+						"degrees": "Velocidad"
+					}
+				},
+				{
 					"id": "subtract-from-eventvar",
 					"objectClass": "System",
 					"sid": 960940401333966,

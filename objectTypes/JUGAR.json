@@ -1,8 +1,9 @@
 {
 	"name": "JUGAR",
-	"plugin-id": "Button",
-	"sid": 344995797761107,
+	"plugin-id": "Text",
+	"sid": 950735250251673,
 	"isGlobal": false,
 	"instanceVariables": [],
-	"behaviorTypes": []
+	"behaviorTypes": [],
+	"effectTypes": []
 }

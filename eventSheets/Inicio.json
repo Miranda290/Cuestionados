@@ -5,22 +5,27 @@
 			"eventType": "block",
 			"conditions": [
 				{
-					"id": "on-clicked",
-					"objectClass": "JUGAR",
-					"sid": 177697114784110
+					"id": "on-object-clicked",
+					"objectClass": "Mouse",
+					"sid": 290224429064911,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked",
+						"object-clicked": "JUGAR"
+					}
 				}
 			],
 			"actions": [
 				{
 					"id": "go-to-nextprevious-layout",
 					"objectClass": "System",
-					"sid": 828840175968692,
+					"sid": 573237833520195,
 					"parameters": {
 						"which": "next"
 					}
 				}
 			],
-			"sid": 755146617346371
+			"sid": 407417475637184
 		}
 	],
 	"sid": 115709413950098
