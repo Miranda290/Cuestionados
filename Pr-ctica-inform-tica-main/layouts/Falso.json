@@ -1,42 +1,12 @@
 {
-	"name": "Escena 1",
+	"name": "Falso",
 	"layers": [
 		{
 			"name": "Capa 0",
 			"overriden": 0,
 			"subLayers": [],
-			"instances": [
-				{
-					"type": "Sprite2",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 13,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 361,
-						"y": 230,
-						"width": 250,
-						"height": 250,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				}
-			],
-			"sid": 392631597137510,
+			"instances": [],
+			"sid": 159004855327085,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -65,7 +35,7 @@
 			"global": false
 		}
 	],
-	"sid": 932175433201903,
+	"sid": 580432598855546,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 1708,
@@ -74,5 +44,5 @@
 	"vpX": 0.5,
 	"vpY": 0.5,
 	"projection": "perspective",
-	"eventSheet": "Hoja de eventos 1"
+	"eventSheet": "Falso"
 }

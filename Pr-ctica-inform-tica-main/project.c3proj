@@ -15,6 +15,13 @@
 		},
 		{
 			"type": "plugin",
+			"id": "Particles",
+			"name": "Partículas",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
 			"id": "Sprite",
 			"name": "Sprite",
 			"author": "Scirra",
@@ -24,6 +31,13 @@
 			"type": "plugin",
 			"id": "Text",
 			"name": "Texto",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Tilemap",
+			"name": "Mapa de teselas",
 			"author": "Scirra",
 			"bundled": false
 		}
@@ -41,7 +55,13 @@
 			"Mouse",
 			"JUGAR",
 			"Sprite",
-			"Sprite2"
+			"Sprite2",
+			"Sprite3",
+			"Texto",
+			"Sprite4",
+			"MapaDeTeselas",
+			"Partículas3",
+			"Texto2"
 		],
 		"subfolders": []
 	},
@@ -55,7 +75,9 @@
 		"items": [
 			"Inicio",
 			"Ruleta",
-			"Escena 1"
+			"Pregunta 1",
+			"Verdadero",
+			"Falso"
 		],
 		"subfolders": []
 	},
@@ -63,7 +85,9 @@
 		"items": [
 			"Inicio",
 			"Ruleta",
-			"Hoja de eventos 1"
+			"pregunta 1",
+			"Verdadero",
+			"Falso"
 		],
 		"subfolders": []
 	},

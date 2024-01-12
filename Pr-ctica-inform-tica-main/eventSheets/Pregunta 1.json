@@ -1,5 +1,5 @@
 {
-	"name": "Pregunta 1",
+	"name": "pregunta 1",
 	"events": [
 		{
 			"eventType": "block",
@@ -7,17 +7,26 @@
 				{
 					"id": "on-object-clicked",
 					"objectClass": "Mouse",
-					"sid": 829639081785474,
+					"sid": 666583630492141,
 					"parameters": {
 						"mouse-button": "left",
-						"click-type": "clicked",
-						"object-clicked": "Sprite"
+						"click-type": "double-clicked",
+						"object-clicked": "Sprite3"
 					}
 				}
 			],
-			"actions": [],
-			"sid": 135301655901457
+			"actions": [
+				{
+					"id": "go-to-layout-by-name",
+					"objectClass": "System",
+					"sid": 727336574216320,
+					"parameters": {
+						"layout": "\"Verdadero\""
+					}
+				}
+			],
+			"sid": 364650519403564
 		}
 	],
-	"sid": 861107926970302
+	"sid": 435216751436765
 }
